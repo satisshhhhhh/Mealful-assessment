@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mealful-assessment/static/css/main.ecdce822.css",
+    "main.js": "/mealful-assessment/static/js/main.f1153bd6.js",
+    "static/js/787.93f85a7e.chunk.js": "/mealful-assessment/static/js/787.93f85a7e.chunk.js",
+    "index.html": "/mealful-assessment/index.html",
+    "main.ecdce822.css.map": "/mealful-assessment/static/css/main.ecdce822.css.map",
+    "main.f1153bd6.js.map": "/mealful-assessment/static/js/main.f1153bd6.js.map",
+    "787.93f85a7e.chunk.js.map": "/mealful-assessment/static/js/787.93f85a7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecdce822.css",
+    "static/js/main.f1153bd6.js"
+  ]
+}
