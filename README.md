@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Mealful Assessment
 
-This is a React application that visualizes customer scheduling patterns using data fetched from a JSON API. The application displays two charts - one that shows the number of scheduled items by date, and another that shows the number of scheduled items by time for a selected date.
+## This is a React application that visualizes customer scheduling patterns using data fetched from a JSON API. The application displays two charts - one that shows the number of scheduled items by date, and another that shows the number of scheduled items by time for a selected date.
 
 Kindly refer the [Assignment.pdf](https://github.com/satisshhhhhh/Mealful-assessment/blob/main/Assignment.pdf)
 
